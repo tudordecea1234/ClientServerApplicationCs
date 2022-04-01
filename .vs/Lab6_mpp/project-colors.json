@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60aca5d6-996e-445f-b9d7-74d261c8d5ca": {
+      "ProjectGuid": "60aca5d6-996e-445f-b9d7-74d261c8d5ca",
+      "DisplayName": "ConnectionUtils",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

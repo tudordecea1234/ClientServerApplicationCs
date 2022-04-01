@@ -1,0 +1,16 @@
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\ConnectionUtils1.dll.config
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\ConnectionUtils1.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\ConnectionUtils1.pdb
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\EntityFramework.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\EntityFramework.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\obj\Debug\ConnectionUtils1.csproj.AssemblyReference.cache
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\obj\Debug\ConnectionUtils1.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\obj\Debug\ConnectionUtils1.csproj.CopyComplete
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\obj\Debug\ConnectionUtils1.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\ConnectionUtils1\obj\Debug\ConnectionUtils1.pdb
