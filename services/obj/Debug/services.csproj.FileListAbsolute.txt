@@ -1,0 +1,9 @@
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\bin\Debug\services.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\bin\Debug\services.pdb
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\bin\Debug\model.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\bin\Debug\model.pdb
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\obj\Debug\services.csproj.AssemblyReference.cache
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\obj\Debug\services.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\obj\Debug\services.csproj.CopyComplete
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\obj\Debug\services.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\services\obj\Debug\services.pdb

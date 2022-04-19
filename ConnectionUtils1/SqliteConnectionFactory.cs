@@ -9,7 +9,7 @@ namespace ConnectionUtils1
     public class SqliteConnectionFactory : ConnectionFactory
     {
         public override IDbConnection createConnection(IDictionary<string, string> props)
-        { 
+        {
             //Mono Sqlite Connection
 
             String connectionString = @"Data Source=C:\Users\Tudor\Desktop\MPP\Lab3_MPP\teledon.db;Version=3";
