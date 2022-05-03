@@ -22,6 +22,10 @@ namespace Lab6_mpp.model
             this.password = password;
         }
 
+        public Volunteer()
+        {
+        }
+
         public long ID { get; set; }
 
         public String FirstName

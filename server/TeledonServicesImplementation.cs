@@ -62,7 +62,18 @@ namespace server
             {
                 try
                 {
-                    Task.Run(() => vol.Value.casesAmountUpdate((ICollection<CharityCase>) caseRepo.findAll()));
+                    Task.Run(() =>
+                    {
+                        try
+                        {
+                            vol.Value.casesAmountUpdate((ICollection<CharityCase>) caseRepo.findAll());
+                        }
+                        catch(TeledonException e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                    });
+
 
                 }
                 catch (TeledonException e)

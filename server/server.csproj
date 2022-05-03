@@ -80,6 +80,10 @@
         <Project>{63e9aa2f-535e-4ae7-8cc0-12fb7534d131}</Project>
         <Name>persistance</Name>
       </ProjectReference>
+      <ProjectReference Include="..\Protobuf3\Protobuf3.csproj">
+        <Project>{6dfe62ea-32dc-4bd8-9ff8-479e15d4dbe6}</Project>
+        <Name>Protobuf3</Name>
+      </ProjectReference>
       <ProjectReference Include="..\services\services.csproj">
         <Project>{26c3d4f6-2429-4228-acf7-5ed4d21bf1cc}</Project>
         <Name>services</Name>

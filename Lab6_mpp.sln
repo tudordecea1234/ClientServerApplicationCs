@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networking", "networking\ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{AC431E41-E1C3-4965-8A03-F446423DB156}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protobuf3", "Protobuf3\Protobuf3.csproj", "{6DFE62EA-32DC-4BD8-9FF8-479E15D4DBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{AC431E41-E1C3-4965-8A03-F446423DB156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC431E41-E1C3-4965-8A03-F446423DB156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC431E41-E1C3-4965-8A03-F446423DB156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFE62EA-32DC-4BD8-9FF8-479E15D4DBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFE62EA-32DC-4BD8-9FF8-479E15D4DBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFE62EA-32DC-4BD8-9FF8-479E15D4DBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFE62EA-32DC-4BD8-9FF8-479E15D4DBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

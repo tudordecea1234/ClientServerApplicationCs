@@ -30,3 +30,16 @@ C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Data.SQLite.EF6.dl
 C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Data.SQLite.Linq.dll
 C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\EntityFramework.xml
 C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\Protobuf3.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\Google.Protobuf.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Memory.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Buffers.dll
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\Protobuf3.pdb
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\Google.Protobuf.pdb
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\Google.Protobuf.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Memory.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tudor\RiderProjects\Lab6_mpp\server\bin\Debug\System.Buffers.xml

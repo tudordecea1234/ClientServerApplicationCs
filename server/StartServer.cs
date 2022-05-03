@@ -6,6 +6,7 @@ using System.Threading;
 using ServerTemplate;
 using System.Threading;
 using Lab6_mpp.repository;
+using Proto.ProtoBuffProtocol;
 using services;
 
 namespace server
